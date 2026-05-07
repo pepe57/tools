@@ -1,3 +1,3 @@
-Display large, customizable text on a full-screen canvas with real-time preview and shareable URLs. Edit typography, colors, gradients, and effects through a slide-out panel, then generate a URL that preserves all formatting settings for easy sharing. Double-click or double-tap the display to open the editor panel.
+Display and customize large text with real-time formatting options including fonts, colors, gradients, and effects. Double-click or double-tap the display area to open the settings panel and adjust text content, styling, and background appearance. Share your creations by saving the customized URL with all your settings encoded as query parameters.
 
-<!-- Generated from commit: ff163d643cab0d017afa420ce7099e9773746559 -->
+<!-- Generated from commit: 88649b855ef1043bb078fb1aaaa5b7c3df702c5a -->
